@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Birthdays Buddy",
+        "img": "birthday.png"
+    },
+    {
+        "name": "Tours",
+        "img": "tours.png"
+    },
+    {
+        "name": "Reviews",
+        "img": "reviews.png"
+    },
+    {
+        "name": "Accordion",
+        "img": "questions.png"
+    },
+    {
+        "name": "Menu",
+        "img": "menu.png"
+    },
+    {
+        "name": "Tabs",
+        "img": "jobs.png"
+    },
+    {
+        "name": "Slider",
+        "img": "slider.png"
+    },
+    {
+        "name": "Lorem Ipsum",
+        "img": "lorem.png"
+    },
+    {
+        "name": "Color Generator",
+        "img": "colors.png"
+    },
+    {
+        "name": "Grocery Bud",
+        "img": "grocery.png"
+    },
+    {
+        "name": "Navbar",
+        "img": "navbar.png"
+    },
+    {
+        "name": "Sidebar And Modal",
+        "img": "sidebar.png"
+    }
+]   
